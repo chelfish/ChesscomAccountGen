@@ -1,7 +1,6 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/chelfish/ChesscomAccountGen">
-  </a>
   </kbd>
   
   <h2 align="center">Chess.com Account Gen</h2>
@@ -10,7 +9,6 @@
     selenium based chess.com account generator ( <b>created by me</b> )
     <br />
     <br />
-    ·
     <a href="https://github.com/chelfish/ChesscomAccountGen/issues">⚠️ Report Bug</a>
     ·
     <a href="https://github.com/chelfish/ChesscomAccountGen/issues">💡 Request Feature</a>
