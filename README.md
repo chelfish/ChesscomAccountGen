@@ -10,7 +10,6 @@
     <br />
     <br />
     <a href="https://github.com/chelfish/ChesscomAccountGen/issues">⚠️ Report Bug</a>
-    ·
     <a href="https://github.com/chelfish/ChesscomAccountGen/issues">💡 Request Feature</a>
   </p>
 </div>
@@ -45,3 +44,6 @@ v0.0.1 ⋮ 2/6/2023
 ```
 
 ---------------------------------------
+
+CREDIT:
+i stole this readme from @imvast (aka pro programmer)
