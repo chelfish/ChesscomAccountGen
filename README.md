@@ -39,7 +39,7 @@
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 2/6/2023
+v0.0.1 ⋮ 3/14/2023
 ! Initial Release
 ```
 
