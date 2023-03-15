@@ -46,4 +46,4 @@ v0.0.1 ⋮ 3/14/2023
 ---------------------------------------
 
 CREDIT:
-i stole this readme from @imvast (aka pro programmer)
+i stole this readme from @imvast
